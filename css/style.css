@@ -1,0 +1,94 @@
+.bg-custom {
+    background-color: #3C6255;
+}
+
+
+
+body {
+    
+    background-color: #f3f7f302;
+    font-family: 'Merriweather';
+}
+
+.logo {
+
+background-color: white;
+}
+
+.story {
+    background-color: #F4EAD5;
+}
+
+
+
+.mydva {
+    width: 400px;
+    height: auto;
+}
+.coupleshot {
+    height: 500px;
+    width: auto;
+}
+
+.map {
+    width: 100%;
+    height: 470px;
+}
+
+.ikony {
+    display: inline-block;
+}
+.texty {
+    display: inline-block;
+    justify-content: flex-start;
+    align-items: center;
+}
+.rightbox {
+    display: flex;
+}
+.text-start {
+    display: flex;
+    align-items: center;
+    
+}
+.forestgreen {
+    width: 150px;
+    height: 150px;
+    background-color: #5C8984;
+}
+.gold {
+    width: 150px; 
+    height: 150px;
+    background-color: #E6B325;
+}
+.white {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+
+.code {
+    border-radius: 50%;
+}
+.weddingcolors {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.dary {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.presents {
+    width: 150px; 
+    height: 150px;
+}
+
+.darybackground {
+    background-color: white;
+}
+
+
